@@ -1,0 +1,3 @@
+/home/user/paoo/tema1/build/CMakeFiles/rebuild_cache.dir
+/home/user/paoo/tema1/build/CMakeFiles/BookProject.dir
+/home/user/paoo/tema1/build/CMakeFiles/edit_cache.dir
